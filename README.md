@@ -3,6 +3,7 @@
 💻 Web Developer | React Developer  
 ☁️ AWS Cloud Enthusiast (EC2, S3, IAM)  
 📊 Power BI Dashboard Creator  
+Software testing concept like SDLC,STLC and Bug life cycle 
 🎓 Diploma in Computer Engineering  
 
 ---
