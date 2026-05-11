@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sumit Prasad
 
-💻 Web Developer | React Developer  
+💻 Web Developer | React Developer
 ☁️ AWS Cloud Enthusiast (EC2, S3, IAM)  
 📊 Power BI Dashboard Creator  
 Software testing concept like SDLC,STLC and Bug life cycle 
@@ -16,7 +16,8 @@ I enjoy creating responsive web applications and deploying scalable solutions.
 
 ## 🛠 Technical Skills
 - 💻 Programming: C, Python  
-- 🌐 Web: HTML, CSS, JavaScript, React.js  
+- 🌐 Web: HTML, CSS, JavaScript, React.js
+-  Backend:Node.js , Express.js
 - 🗄 Database: PostgreSQL, SQL  
 - ☁️ Cloud: AWS (EC2, S3, IAM)  
 - 🖥 OS: Windows, Linux  
