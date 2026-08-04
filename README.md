@@ -1,51 +1,76 @@
-# Hi 👋 I'm Sumit Prasad
+# Hi 👋, I'm Sumit Prasad
 
-💻 Web Developer | React Developer
-☁️ AWS Cloud Enthusiast (EC2, S3, IAM)  
-📊 Power BI Dashboard Creator  
-Software testing concept like SDLC,STLC and Bug life cycle 
-🎓 Diploma in Computer Engineering  
+💻 Frontend Developer (React.js)  
+📊 Data Analyst  
+🐍 Python | SQL | PostgreSQL | Power BI
 
----
-
-## 🚀 About Me
-I am a passionate Web Developer with hands-on experience in building real-world projects using React, JavaScript, and AWS Cloud.  
-I enjoy creating responsive web applications and deploying scalable solutions.
+🚀 Passionate about building responsive web applications and transforming raw data into meaningful business insights.
 
 ---
 
-## 🛠 Technical Skills
-- 💻 Programming: C, Python  
-- 🌐 Web: HTML, CSS, JavaScript, React.js
--  Backend:Node.js , Express.js
-- 🗄 Database: PostgreSQL, SQL  
-- ☁️ Cloud: AWS (EC2, S3, IAM)  
-- 🖥 OS: Windows, Linux  
+## 👨‍💻 About Me
+
+- 💻 Frontend Developer with hands-on experience in React.js, HTML, CSS, and JavaScript.
+- 📊 Skilled in Data Analysis using Python, SQL, PostgreSQL, and Power BI.
+- 🤖 Currently learning Machine Learning and building practical projects.
+- 🤝 Open to Frontend Developer and Data Analyst opportunities.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Programming
+- Python
+- JavaScript
+- SQL
+- C
+
+
+
+### Data Analytics
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
 
 ---
 
 ## 📂 Featured Projects
 
-### 📸 Instagram Clone (React)
-Built a responsive Instagram UI clone using React with reusable components and modern design.
-
-### 📊 Blinkit Sales Dashboard (Power BI)
-Interactive dashboard analyzing sales KPIs, revenue trends, and performance insights.
-
-### 🌐 Web Development Projects
-Responsive websites using HTML, CSS, JavaScript with form validation and dynamic UI.
-
-### ☁️ AWS Cloud Deployment
-Launched EC2 instances, hosted websites, managed S3 buckets, configured IAM users.
+- 📊 Blinkit Sales Dashboard (Power BI)
+- 📚 Online Bookstore SQL Project
+- 📩 Spam Message Detection using Python
+- 🌍 Language Detection using Python
+- 🎬 Netflix Movie Data Analysis
+- 📱 Instagram Clone (React.js)
+- 🌐 Personal Portfolio Website
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/sumit-prasad-a47a5b262  
-📧 Email: sumitprasad931@gmail.com  
-📍 New Delhi, India  
+- 📧 Email: sumitprasad931@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/sumit-prasad14
 
 ---
 
-⭐ Always learning and building real-world solutions.
+⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
